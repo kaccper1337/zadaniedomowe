@@ -1,0 +1,47 @@
+body,html{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.container{
+    width: 1440px;
+}
+.container section h1{
+    font-size: 45px;
+}
+.container section p{
+    font-size: 25px;
+}
+.container section img{
+    width: 100%;
+}
+img{
+    width: 100%;
+}
+p#outline{
+    border-bottom: 1px solid black;
+}
+.content{
+    font-size: 25px;
+}
+.cart{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+}
+.cart img{
+    width: 500px;
+}
+.carts{
+    display: flex;
+}
+.section2{
+    margin-top: 50px;
+}
+.news{
+    display: flex;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
